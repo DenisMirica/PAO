@@ -85,7 +85,7 @@ public class UniqueList<T> implements List<T> {
 
     @Override
     public boolean addAll(int index, Collection<? extends T> c) {
-        throw new UnsupportedOperationException();
+        return storage.addAll(index, c);
     }
 
     @Override

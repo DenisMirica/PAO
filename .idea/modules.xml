@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PAO.iml" filepath="$PROJECT_DIR$/.idea/PAO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/laborator1/laborator1.iml" filepath="$PROJECT_DIR$/laborator1/laborator1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/laborator2/laborator2.iml" filepath="$PROJECT_DIR$/laborator2/laborator2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/laborator3/smarter-calculator/smarter-calculator.iml" filepath="$PROJECT_DIR$/laborator3/smarter-calculator/smarter-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/laborator3/unique-list-checker/unique-list-checker.iml" filepath="$PROJECT_DIR$/laborator3/unique-list-checker/unique-list-checker.iml" />
+    </modules>
+  </component>
+</project>

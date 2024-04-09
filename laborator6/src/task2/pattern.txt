@@ -1,0 +1,7 @@
+Singleton Pattern - A fost utilizat pentru clasa Topic, pentru a ne asigura ca exista o singura instanta
+a unui topic in intreaga aplicatie.Acesta ne permite sa avem o singura instanta a fiecarui topic si sa o
+partajam intre toti utilizatorii care sunt abonati la acel topic.
+
+Observer Pattern - Am utilizat pentru a implementa sistemul de abonare si notificare a utilizatorilor la
+diferitele topicuri. Atunci cand un utilizator se aboneaza la un topic, acesta devine un observator al acelui
+topic si va fi notificat cand sunt trimise mesaje pe acel topic.

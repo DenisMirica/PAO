@@ -1,0 +1,9 @@
+Singleton Pattern: Folosit pentru clasa StudentList pentru a asigura ca exista o singura
+instanta a listei de studenti in intreaga aplicație.
+
+Strategy Pattern: Folosit pentru clasele care implementeaza strategiile de sortare (TotalGradeSort,
+PartialGradeSort, AverageGradeSort). Acest pattern separa algoritmul de sortare de logica clasei StudentList,
+permitand schimbarea dinamica a strategiei de sortare.
+
+Factory Pattern: Folosit pentru clasa SorterFactory pentru a crea obiecte de sortare in functie de
+cerintele utilizatorului.

@@ -1,0 +1,8 @@
+Strategy Pattern: Vom utiliza acest pattern pentru a permite magazinului sa aleaga din mai multe
+strategii de plata in functie de preferintele clientului sau de o alegere aleatorie. Vom defini o interfata
+PaymentStrategy si vom avea implementari separate pentru fiecare metodă de plata (plata cash, plata prin transfer
+bancar si plata cu cardul).
+
+Command Pattern: Vom folosi acest pattern pentru a realiza tranzactiile la finalul zilei intr-o maniera
+independenta de metoda de plata utilizata. Vom defini o clasa Transaction care va reprezenta o tranzactie,
+iar aceasta va fi executata la finalul zilei.

@@ -1,0 +1,8 @@
+Command Pattern: A fost utilizat pentru a separa operatiile de baza (adica comenzi precum adaugarea
+unui student sau a unei materii, modificarea notei unui student etc.) in obiecte separate. Aceste obiecte
+pot fi create, executate si anulate independent, oferind o mai mare flexibilitate si usurand gestionarea
+operatiilor.
+
+Singleton Pattern: In implementarea data, clasa Database a fost proiectata ca un singleton. Aceasta asigura ca
+o singura instanta a clasei Database există in intregul sistem si ofera un punct centralizat de acces la baza de
+date.

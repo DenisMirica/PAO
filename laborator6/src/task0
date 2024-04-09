@@ -1,0 +1,4 @@
+Factory Pattern este utilizat in clasa SmarterCalculator pentru a crea instante pentru fiecare rezultat.
+
+Strategy Patterm este folosit pentru a gestiona aceleasi interogari (operatia a operat b) pe mai multe tipuri de date, astfel incat sa putem utiliza aceeasi 
+functie care returneaza rezultate diferite in functie de tipurile a și b.

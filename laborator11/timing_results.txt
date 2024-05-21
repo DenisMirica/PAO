@@ -1,0 +1,12 @@
+Sequential, 10 elements: 0.026066900 s
+Thread, 10 elements: 0.043509200 s
+ParallelStream, 10 elements: 0.021437200 s
+CompletableFuture, 10 elements: 0.017493000 s
+Sequential, 1000 elements: 0.020201700 s
+Thread, 1000 elements: 0.015725900 s
+ParallelStream, 1000 elements: 0.009475700 s
+CompletableFuture, 1000 elements: 0.013355200 s
+Sequential, 10000 elements: 0.109755600 s
+Thread, 10000 elements: 0.072832300 s
+ParallelStream, 10000 elements: 0.053950800 s
+CompletableFuture, 10000 elements: 0.0794
